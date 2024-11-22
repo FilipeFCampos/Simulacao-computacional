@@ -3,6 +3,8 @@
 
 Esse é o meu projeto final da disciplina modelagem e simulação computacional do Bacharelado de Tecnologia da Informação (BTI) - IMD/UFRN
 
-Nesse projeto eu simulei uma campanha de vacinação durante uma epidemia, raçando paralelos com a pandemia do covid-19 e comparando o resultados de diferentes abordagens. Para essa análise eu utilizei Python e Jupyter Notebook para desenvolver o modelo epidemiológico, além de bibliotecas como o matplotlib e o numpy.
+Nesse projeto eu simulei uma campanha de vacinação durante uma epidemia, raçando paralelos com a pandemia do covid-19 e comparando o resultados de diferentes abordagens. Para essa análise eu utilizei Python e Jupyter Notebook para desenvolver o modelo epidemiológico, além de bibliotecas como o matplotlib e o numpy para plotar os resultados em gráfico.
+
+Além do modelo desenvolvido, também fiz um artigo em PDF sobre o experimento e gravei um vídeo explicando todo o processo. Ambos estão disponíveis por meio desse repositório.
 
 
