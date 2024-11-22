@@ -1,4 +1,4 @@
-# Simulacao-computacional
+# Simulação computacional
 [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FilipeFCampos/Simulacao-computacional/blob/main/modelo_epidemologico.ipynb)
 
 Esse é o meu projeto final da disciplina modelagem e simulação computacional do Bacharelado de Tecnologia da Informação (BTI) - IMD/UFRN
